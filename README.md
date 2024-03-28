@@ -2,6 +2,8 @@
 **Interprocess Communication Using Pipes in C:**
 - This project demonstrates interprocess communication between three processes (P1, P2, P3) using pipes in the C programming language. The program reads integers from a text file and sends them to child processes P2 and P3 via pipes. P2 categorizes integers by the number of digits, while P3 computes the number of prime integers received. After completing their tasks, P2 and P3 send their results back to the parent process (P1), which then prints the formatted output.
 
+![Screenshot 2024-03-28 234104](https://github.com/egmndrk/IPC-Using-Pipes-in-C/assets/161582959/6e6bcb92-cf9c-481f-b13d-0d256181a22c)
+
 **Features:**
 - Utilizes four pipes for multi-directional communication: P1 to P2, P1 to P3, P2 to P1, P3 to P1.
 - Child process P2 categorizes integers into groups based on the number of digits.
