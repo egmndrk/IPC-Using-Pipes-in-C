@@ -1,0 +1,29 @@
+$ ./homework1 numbers.txt
+Input file: numbers.txt
+1 digits - 0
+2 digits - 4
+3 digits - 32
+4 digits - 258
+5 digits - 707
+Primes - 107
+NonPrimes - 894
+
+$ ./homework1 numbers2.txt
+Input file: numbers2.txt
+1 digits - 1
+2 digits - 4
+3 digits - 27
+4 digits - 245
+5 digits - 723
+Primes - 123
+NonPrimes - 877
+
+$ ./homework1 numbers3.txt
+Input file: numbers3.txt
+1 digits - 0
+2 digits - 3
+3 digits - 23
+4 digits - 294
+5 digits - 680
+Primes - 109
+NonPrimes - 891
